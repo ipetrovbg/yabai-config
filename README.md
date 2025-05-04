@@ -12,3 +12,12 @@ yabai --stop-service
 ```shell
 yabai --restart-service
 ```
+
+## Start Borders
+```shell
+brew services start borders
+```
+## Stop Borders
+```shell
+brew services stop borders
+```
