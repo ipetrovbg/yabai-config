@@ -21,3 +21,7 @@ brew services start borders
 ```shell
 brew services stop borders
 ```
+
+
+yabai -m config --dispaly 1 external_bar all:28:0
+
